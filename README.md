@@ -25,8 +25,49 @@ Welcome to the JavaScript Projects Showcase! Explore a variety of simple yet eff
   - Open the `bmi_calculator.html` file in your browser.
   - Enter the weight (in kilograms) and height (in meters) and click the "Calculate BMI" button.
   - Receive the BMI value along with the corresponding classification.
+ 
+### 3. Loan Calculator 💸
+<img src="images/loan.jpg" alt="Loan Calculator" width="100"/>
 
-### 3. Tip Calculator 💸
+- **Description:** Empower users to make informed financial decisions by calculating loan details, including interest rates and monthly payments.
+
+- **Usage:**
+  - Open the `loan_calculator.html` file in your browser.
+  - Enter the loan amount, interest rate, and loan duration.
+  - View the calculated monthly payment and total repayment.
+
+### 4. Counter Application 🔢
+<img src="https://cdn6.aptoide.com/imgs/4/0/d/40da1d8253999be584e7ee2c89249326_icon.png" alt="BMI Calculator" width="100"/>
+
+- **Description:** Build a simple counter application that increments, decrements, and resets a counter. Ideal for understanding event handling.
+
+- **Usage:**
+  - Open the `counter_app.html` file in your browser.
+  - Click the "Increment" and "Decrement" buttons to modify the counter value.
+  - Simple yet effective for counting!
+
+### 5. Palindrome Checker 🔄
+<img src="https://www.pngall.com/wp-content/uploads/15/UNO-Reverse-Card-PNG-Cutout.png" alt="Palindrome" width="100"/>
+
+- **Description:** Determine whether a given word or phrase is a palindrome. Strengthen your string manipulation skills in JavaScript.
+
+- **Usage:**
+  - Open the `palindrome_checker.html` file in your browser.
+  - Enter a word or phrase.
+  - Discover whether it's a palindrome or not.
+
+
+### 6. RGB Color Generator 🌈
+<img src="images/rgb.avif" alt="RGB" width="100"/>
+
+- **Description:** Create a tool that generates random RGB colors. Experiment with color combinations and improve your DOM manipulation skills.
+
+- **Usage:**
+  - Open the `rgb_color_generator.html` file in your browser.
+  - Click the "Generate" button to get a random RGB color.
+  - Copy the generated color code for your projects.
+
+### 7. Tip Calculator 💸
 <img src="https://arctouch.com/wp-content/uploads/2009/08/Tip-Em-Icon.png" alt="Tip Calculator" width="100"/>
 
 - **Description:** Easily calculate tips for a bill amount with the Tip Calculator. Customize the tip percentage and see the total amount payable, including the tip.
@@ -35,6 +76,35 @@ Welcome to the JavaScript Projects Showcase! Explore a variety of simple yet eff
   - Open the `tip_calculator.html` file in your browser.
   - Enter the bill amount and select the tip percentage using the slider.
   - Instantly view the tip amount and the total bill.
+
+### 8. Time and Date Widget ⌚
+<img src="https://uxwing.com/wp-content/themes/uxwing/download/time-and-date/date-and-time-icon.png" alt="Time" width="100"/>
+
+- **Description:** Display real-time clock and date information. Learn how to manipulate the Date object and update the UI dynamically.
+
+- **Usage:**
+  - Open the `time_date_widget.html` file in your browser.
+  - Get real-time information on the current date and time.
+  - A handy utility for your web projects.
+
+
+### 9. Get Unicode Character Value 🌐
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/New_Unicode_logo.svg/800px-New_Unicode_logo.svg.png" alt="BMI Calculator" width="100"/>
+
+- **Description:** Develop a tool that provides the Unicode value of a given character. Enhance your knowledge of character encoding in JavaScript.
+
+- **Usage:**
+  - Open the `unicode_character.html` file in your browser.
+  - Enter a character, and the corresponding Unicode value will be displayed.
+
+### 10. Age Calculator Application 🎂
+<img src="https://biswa.net/images/age-calculator-online.png" alt="BMI Calculator" width="100"/>
+
+- **Description:** Calculate the age based on the birthdate provided. Understand date manipulations and improve your user interface skills.
+
+- **Usage:**
+  - Open the `age_calculator.html` file in your browser.
+  - Input your birthdate, and the application will calculate your age.
 
 ## Getting Started 🚀
 1. Clone the repository:
