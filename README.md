@@ -7,7 +7,7 @@ Welcome to the JavaScript Projects Showcase! Explore a variety of simple yet eff
 ## Project List 🚀
 
 ### 1. Love Calculator 💖
-![Love Calculator](images/love_calculator.png)
+![Love Calculator](images/LC.png)
 
 - **Description:** Calculate the love compatibility between two individuals by entering their names. The algorithm generates a random love score and provides a fun and entertaining result.
 
@@ -17,7 +17,7 @@ Welcome to the JavaScript Projects Showcase! Explore a variety of simple yet eff
   - Witness the magic of love in percentage!
 
 ### 2. Body Mass Index (BMI) Calculator 🏋️‍♂️
-![BMI Calculator](images/bmi_calculator.png)
+![BMI Calculator](https://thedaily9.in/wp-content/uploads/2023/01/unnamed.png)
 
 - **Description:** Determine the Body Mass Index (BMI) by entering the weight and height of an individual. The BMI calculator provides a classification based on standard BMI ranges.
 
@@ -27,7 +27,7 @@ Welcome to the JavaScript Projects Showcase! Explore a variety of simple yet eff
   - Receive the BMI value along with the corresponding classification.
 
 ### 3. Tip Calculator 💸
-![Tip Calculator](images/tip_calculator.png)
+![Tip Calculator](https://arctouch.com/wp-content/uploads/2009/08/Tip-Em-Icon.png)
 
 - **Description:** Easily calculate tips for a bill amount with the Tip Calculator. Customize the tip percentage and see the total amount payable, including the tip.
 
