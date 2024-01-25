@@ -8,7 +8,25 @@
 </head>
 <body>
     <div class="container">
-        <h2>BMI Calculator - Body Mass Index (kg/m^2)
+        <h2>BMI Calculator</h2>
+        <form id="bmiForm">
+            <label for="gender">Gender</label>
+            <select name="gender" id="gender">
+                <option value="male">Male</option>
+                <option value="female">Female</option>
+            </select>
+            <label for="age">Age</label>
+            <input type="number" id="age" placeholder="Enter age" required>
+            <label for="height-feet">Height</label>
+            <input type="number" id="height-feet" placeholder="Feet" required>
+            <input type="number" id="height-inch" placeholder="inches" required>
+            <label for="weight">Weight</label>
+            <input type="number" required id="weight" placeholder="Enter Weight in kgs">
+            <input type="submit" value="Calculate BMI">
+
+            <div id="result"></div>
+
+        </form>
     </div>
 
     <script src="script.js"></script>
