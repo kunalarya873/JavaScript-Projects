@@ -109,7 +109,7 @@ Welcome to the JavaScript Projects Showcase! Explore a variety of simple yet eff
 ## Getting Started 🚀
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/javascript-projects-showcase.git
+   git clone https://github.com/kunalarya873/JavaScript-Projects.git
    ```
 2. Navigate to the project you want to explore.
 3. Open the respective HTML file in your browser.
